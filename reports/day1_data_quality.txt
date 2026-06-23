@@ -1,0 +1,21 @@
+DAY 1 DATA QUALITY REPORT
+
+Datasets Loaded: 10
+
+Checks Performed:
+- Shape validation
+- Data type validation
+- Missing value analysis
+- Duplicate record analysis
+- AMFI code validation
+
+Results:
+- Total schemes in fund master: 40
+- Total schemes in NAV history: 40
+- Missing AMFI codes: 0
+
+Conclusion:
+All 10 datasets loaded successfully.
+All AMFI scheme codes were validated against NAV history.
+No missing AMFI codes were found.
+Data ingestion completed successfully.
