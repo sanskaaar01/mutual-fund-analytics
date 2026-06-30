@@ -29,5 +29,5 @@ Data Analyst Internship Capstone Project
 * reports/
 
 ## Status
-
+ok
 Day 1: Data Ingestion Complete
